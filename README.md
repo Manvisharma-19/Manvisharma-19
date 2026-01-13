@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Based in India <br>📚 I'm currently learning AIML<br>🎯 Goals: I'm looking to collaborate on ML Projects <br>🎲 Contact me at manvisharma5189@gmail.com </p>
 
 ###
 
